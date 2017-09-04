@@ -35,4 +35,4 @@ const styles = {
 };
 
 // Export Component
-export default Header;
+export { Header };
